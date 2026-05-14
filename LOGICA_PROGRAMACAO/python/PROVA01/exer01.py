@@ -1,0 +1,2 @@
+# Exercício 1
+print("Bem-vindo ao mundo da programação em Python!")

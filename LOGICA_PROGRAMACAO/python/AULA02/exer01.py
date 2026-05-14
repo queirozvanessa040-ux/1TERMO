@@ -1,0 +1,10 @@
+# Exercicio 01
+print("Conheceno você!")
+print("Qual é o seu nome?")
+nome = input("Vanessa")
+print("Qual é o seu curso?")
+curso = input("Desenvolvimento de Sistemas")
+print("Qual é a sua idade?")
+idade = input("16 anos")
+print("Quais são os seus hobbies?")
+hobbies = input("São dormir, ler, instrumentos de teclas, assistir")
