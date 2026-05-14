@@ -49,11 +49,4 @@ kill -9 1234                 # Encerra o processo de ID 1234 de forma forçada
    1. Atividade Windows: Abrir o Monitor de Recursos, identificar o consumo de memória de paginação e simular o encerramento de um processo travado via PowerShell.
    2. Atividade Linux: Acessar uma máquina virtual via terminal, analisar a carga do sistema com o comando uptime e identificar gargalos com o comando free -m.
 
-------------------------------
-Para adaptar este material ao laboratório disponível na sua instituição, informe:
-
-* A prática será feita utilizando Máquinas Virtuais (como VirtualBox) ou os computadores possuem Dual Boot?
-* Qual distribuição Linux (Ubuntu, Debian, Fedora, etc.) será utilizada na aula?
-* Você deseja focar mais na Interface Gráfica (GUI) ou na Linha de Comando (CLI) para a avaliação dos alunos?
-
 

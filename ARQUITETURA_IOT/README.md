@@ -56,10 +56,3 @@ while True:
 
    1. Arduino: Lê um sensor analógico e envia o valor via Serial.println().
    2. Python: Lê a porta serial e salva os dados em um arquivo de texto.
-
-------------------------------
-Para estruturar melhor o seu plano de ensino, informe:
-
-* Qual é a duração total desta aula ou módulo?
-* Os alunos usarão componentes físicos ou um simulador virtual (como o Tinkercad)?
-* Qual o nível de conhecimento prévio da turma em programação?

@@ -35,10 +35,3 @@ Processo de concepção de software aplicados a projetos de infraestrutura de si
    1. Diretórios: Cada pasta corresponde a uma disciplina com seus respectivos arquivos .md detalhados.
    2. Códigos-Fonte: Os exemplos práticos de C++, Python, Java e JavaScript estão isolados em pastas de laboratório.
    3. Contribuições: Pull requests com melhorias nos roteiros ou novos exercícios são bem-vindos.
-
-------------------------------
-Se você quiser ajustar o foco do resumo, me informe:
-
-* Deseja adicionar uma seção de pré-requisitos de software (como VS Code, Arduino IDE ou Git)?
-* Quer incluir o seu nome ou o nome da instituição de ensino no cabeçalho?
-* Gostaria de destacar alguma ferramenta de gestão específica (como Jira ou Trello) na seção do Scrum/Kanban?

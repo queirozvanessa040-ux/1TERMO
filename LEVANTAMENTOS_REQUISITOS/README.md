@@ -43,11 +43,4 @@
 
    1. Atividade: Dividir a turma em grupos (Scrum Teams) e criar um quadro Kanban para gerenciar a correção de falhas em um módulo simulado do SO.
 
-------------------------------
-Para personalizar o encerramento deste material, informe:
-
-* Os alunos utilizarão alguma ferramenta de software (como Trello, Jira ou Miro) para gerenciar o Kanban?
-* Você deseja incluir um exemplo detalhado de Diagrama (ex: o ciclo de vida de um processo em formato de texto/tabela)?
-* Qual o tempo total disponível para a realização da atividade prática em grupo?
-
 

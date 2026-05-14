@@ -61,11 +61,4 @@ git push origin main   # Envia os arquivos locais para o servidor do GitHub
    2. Passo 2: Criar um repositório público no perfil pessoal do GitHub.
    3. Passo 3: Subir o arquivo do script criado usando os comandos do terminal Git.
 
-------------------------------
-Para complementar o material para a sua turma, informe:
-
-* Qual das linguagens (Python, Java ou JavaScript) será o foco principal dos exercícios práticos?
-* Os alunos usarão o GitHub via interface gráfica (GitHub Desktop) ou por linha de comando?
-* Você prefere que eu divida os exemplos de Java e JavaScript em blocos de código totalmente separados?
-
 
