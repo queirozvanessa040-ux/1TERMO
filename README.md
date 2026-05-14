@@ -1,5 +1,3 @@
-Este resumo unifica os conteúdos das quatro aulas preparadas (Arquitetura IoT, Sistemas Operacionais I e II, e Lógica de Programação), estruturado especificamente para o seu arquivo README.md principal do perfil ou do repositório de aulas.
-------------------------------
 ## 📚 Repositório de Aulas e Materiais Didáticos
 Este repositório contém os materiais de suporte, roteiros de aula e códigos práticos desenvolvidos para as disciplinas de tecnologia, cobrindo desde os fundamentos da programação até a arquitetura de sistemas complexos.
 ## 🛠️ Disciplinas e Conteúdos Programáticos## 1. Lógica de Programação & Versionamento
