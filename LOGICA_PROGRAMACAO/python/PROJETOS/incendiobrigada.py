@@ -17,6 +17,29 @@ for i in range(funcionarios):
     status_trein = input("Tempo de Treinamento: ")
 
     print(f"Funcionário {nome} do setor {setor} - Treinamentos: {status_trein}")
+    print("\nCadastro completo! Desta forma verifique qual área cada funcionário pertence para identificar os equipamentos necessários para a Brigada de Incêndio.")if setor == "Elétrica":
+    if setor == "Elétrica":
+        print("EPIs obrigatórios:")
+        print("- Luvas de alta tensão")
+        print("- Botas dielétricas")
 
-print("\nCadastro completo! Desta forma verifique os equipamentos necessários para a Brigada de Incêndio.")
-print("")
+    elif setor == "DEV":
+        print("EPIs obrigatórios:")
+        print("- Cadeira ergonômica")
+        print("- Apoio para punhos")
+        print("- Óculos para proteção visual")
+
+    elif setor == "Logística":
+        print("EPIs obrigatórios:")
+        print("- Luvas de proteção")
+        print("- Botina de segurança")
+        print("- Colete refletivo")
+
+    elif setor == "Fabricação Mecânica":
+        print("EPIs obrigatórios:")
+        print("- Óculos de proteção")
+        print("- Protetor auricular")
+        print("- Luvas de segurança")
+        print("- Botina com biqueira de aço")
+    else:
+        print("Setor não identificado.")
